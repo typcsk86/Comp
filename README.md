@@ -12,7 +12,7 @@ Bu proje ikinci projem olan electrobota genel anlamda benzerlik göstermektedir.
 
 
 Kategori Filtrelemek: Kategori sayfalarında bir filtre sistemi bulunmaktadır. 
-Bu filtre sistemi javascriptle yazılmış olup kullanıcının arayüzde seçtiği seçimlere göre sayfa linkine bir parametre eklenir.
+Bu filtre sistemi javascriptle yazılmıştır. Kullanıcının arayüzde seçtiği seçimlere göre sayfa linkine bir parametre eklenir.
 Parametre eklendiğinde sayfa yenilenir ve parametre kontrolü yapılır. Parametreye göre ürünler filtrelenir.
 
 
