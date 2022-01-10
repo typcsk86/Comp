@@ -8,7 +8,7 @@ Bu proje ikinci projem olan electrobota genel anlamda benzerlik göstermektedir.
 
 Özellikler
 -----------------
-Ürünleri yorumlamak: Her ürün sayfasında bir yorum yapma özelliği bulunur. Kullanıcı yorum yazdığında yazılan yorum veritabanıda "yorum" tablosuna kaydedilir ve aynı sayfada görüntülenir.
+Ürünleri Yorumlamak: Her ürün sayfasında bir yorum yapma özelliği bulunur. Kullanıcı yorum yazdığında yazılan yorum veritabanıda "yorum" tablosuna kaydedilir ve aynı sayfada görüntülenir.
 
 
 Kategori Filtrelemek: Kategori sayfalarında bir filtre sistemi bulunmaktadır. 
