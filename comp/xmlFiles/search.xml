@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SEARCH>
+  <!--Kategoriler-->
+  <URUNVEKATEGORI>
+    <BASLIK>Dizüstü Bilgisayar</BASLIK>
+    <LINK>urunVeKategori/kategori/dizustuKategori.php</LINK>
+    <LINKKATEGORI>dizustuKategori.php</LINKKATEGORI>
+    <LINKURUN>../../kategori/dizustuKategori.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Masaüstü Bilgisayar</BASLIK>
+    <LINK>urunVeKategori/kategori/masaustuKategori.php</LINK>
+    <LINKKATEGORI>masaustuKategori.php</LINKKATEGORI>
+    <LINKURUN>../../kategori/masaustuKategori.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+  <!--Ürünler-->
+  <!--Casper-->
+  <!--Dizüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana s500</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/casper/caspernirvanas500.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/casper/caspernirvanas500.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/casper/caspernirvanas500.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana x500</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/casper/caspernirvanax500.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/casper/caspernirvanax500.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/casper/caspernirvanax500.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana c350</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/casper/caspernirvanac350.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/casper/caspernirvanac350.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/casper/caspernirvanac350.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <!--Masaüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana a45</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/casper/caspernirvanaa45.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/casper/caspernirvanaa45.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/casper/caspernirvanaa45.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana a5h</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/casper/caspernirvanaa5h.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/casper/caspernirvanaa5h.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/casper/caspernirvanaa5h.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Casper Nirvana a46</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/casper/caspernirvanaa46.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/casper/caspernirvanaa46.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/casper/caspernirvanaa46.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+  <!--Acer-->
+  <!--Dizüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Acer Aspire 3 A315-23</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/acer/aceraspire3A31523.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/acer/aceraspire3A31523.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/acer/aceraspire3A31523.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Acer One 14 z3</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/acer/acerone14z3.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/acer/acerone14z3.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/acer/acerone14z3.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Acer Aspire 3 A315-57G</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/acer/aceraspire3A31557g.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/acer/aceraspire3A31557g.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/acer/aceraspire3A31557g.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <!--Masaüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Acer Aspire C24-1650</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/acer/aceraspirec241650.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/acer/aceraspirec241650.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/acer/aceraspirec241650.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Acer Aspire C24-420</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/acer/aceraspirec24420.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/acer/aceraspirec24420.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/acer/aceraspirec24420.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Acer Aspire C24-963</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/acer/aceraspirec24963.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/acer/aceraspirec24963.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/acer/aceraspirec24963.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+  <!--Asus-->
+  <!--Dizüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Asus Tuf Gaming Fx706</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/asus/asustuffx706.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/asus/asustuffx706.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/asus/asustuffx706.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Asus Rog Strix G15</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/asus/asusrogstrixg5.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/asus/asusrogstrixg5.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/asus/asusrogstrixg5.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Asus D515</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/asus/asusd515.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/asus/asusd515.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/asus/asusd515.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <!--Masaüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>Asus V222FAK</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/asus/asusv222fak.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/asus/asusv222fak.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/asus/asusv222fak.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Asus V222UBK</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/asus/asusv222ubk.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/asus/asusv222ubk.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/asus/asusv222ubk.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>Asus GT51CA</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/asus/asusgt51ca.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/asus/asusgt51ca.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/asus/asusgt51ca.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+  <!--HP-->
+  <!--Dizüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>HP 14s</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/hp/hp14s.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/hp/hp14s.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/hp/hp14s.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>HP 340s</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/hp/hp340s.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/hp/hp340s.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/hp/hp340s.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>HP 15s</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/hp/hp15s.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/hp/hp15s.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/hp/hp15s.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <!--Masaüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>HP 24</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/hp/hp24.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/hp/hp24.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/hp/hp24.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>HP Pro One 440</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/hp/hp440.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/hp/hp440.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/hp/hp440.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>HP Gaming Pavilion Tg01</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/hp/hptg01.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/hp/hptg01.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/hp/hptg01.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+  <!--MSI-->
+  <!--Dizüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>MSI GL65</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/msi/msigl65.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/msi/msigl65.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/msi/msigl65.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>MSI GF65</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/msi/msigf65.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/msi/msigf65.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/msi/msigf65.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>MSI GP65</BASLIK>
+    <LINK>urunVeKategori/dizustuUrun/msi/msigp65.php</LINK>
+    <LINKKATEGORI>../dizustuUrun/msi/msigp65.php</LINKKATEGORI>
+    <LINKURUN>../../dizustuUrun/msi/msigp65.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <!--Masaüstü-->
+  <URUNVEKATEGORI>
+    <BASLIK>MSI Modern AM241P</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/msi/msiam241p.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/msi/msiam241p.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/msi/msiam241p.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>MSI MPG Trident 3</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/msi/msimpg.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/msi/msimpg.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/msi/msimpg.php</LINKURUN>
+  </URUNVEKATEGORI>
+  <URUNVEKATEGORI>
+    <BASLIK>MSI Mag Infinite</BASLIK>
+    <LINK>urunVeKategori/masaustuUrun/msi/msimag.php</LINK>
+    <LINKKATEGORI>../masaustuUrun/msi/msimag.php</LINKKATEGORI>
+    <LINKURUN>../../masaustuUrun/msi/msimag.php</LINKURUN>
+  </URUNVEKATEGORI>
+
+
+</SEARCH>

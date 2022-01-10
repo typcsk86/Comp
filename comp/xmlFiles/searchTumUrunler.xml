@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+  <!--DİZÜSTÜ BİLGİSAYAR ÜRÜNLERİ-->
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana S500.1135-8v00x-g-f Intel 11.nesil I5-1135g7 8gb Ram 500gb Nvme Ssd Freedos S500.1135-8V00X-G-F</ACIKLAMA>
+    <LINK>../dizustuUrun/casper/caspernirvanas500.php</LINK>
+    <IMGLINK>images/dizustuUrun/casper/casper1-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana X500.1035-8u00x-g-f Intel 10.nesil I5-1035g1 8gb Ram 240gb M2 Ssd Dos 15.6" Fhd X500.1035-8U00X-G-F</ACIKLAMA>
+    <LINK>../dizustuUrun/casper/caspernirvanax500.php</LINK>
+    <IMGLINK>images/dizustuUrun/casper/casper2-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana C350.5000-4d00x Intel Core Pentium N5000 4gb Ram 240gb Ssd Freedos C350.5000-4D00X</ACIKLAMA>
+    <LINK>../dizustuUrun/casper/caspernirvanac350.php</LINK>
+    <IMGLINK>images/dizustuUrun/casper/casper3-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>Aspire 3 A315-23 Amd Ryzen 5 3500u 8gb 256 Gb Ssd Freedos 15.6" Fhd Nx.hvtey.00b Aspire 3 A315-23 NX.HVTEY.00B</ACIKLAMA>
+    <LINK>../dizustuUrun/acer/aceraspire3A31523.php</LINK>
+    <IMGLINK>images/dizustuUrun/acer/acer1-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>One 14 Z3 Amd A6 7350b 3.6 Ghz 4gb Ram 1tb Hdd 14 Led Ekran Windows 10 Home Notebook 35980</ACIKLAMA>
+    <LINK>../dizustuUrun/acer/acerone14z3.php</LINK>
+    <IMGLINK>images/dizustuUrun/acer/acer2-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>notebook</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>Aspire 3 A315-57G Intel Core i7 1065G7 8GB 512GB SSD MX330 Freedos 15.6" FHD Dizüstü Bilgisayar NX.HZREY.006</ACIKLAMA>
+    <LINK>../dizustuUrun/acer/aceraspire3A31557g.php</LINK>
+    <IMGLINK>images/dizustuUrun/acer/acer3-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>Tuf Gaming Fx706lı-hx175 I5-10300h 8gb Ram 512gb Ssd 4gb Gtx1650ti 17.3 Fhd 144hz FX706LI-HX175</ACIKLAMA>
+    <LINK>../dizustuUrun/asus/asustuffx706.php</LINK>
+    <IMGLINK>images/dizustuUrun/asus/asus1-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>Rog Strix G15 G513qm-hn347 Amd Ryzen 9 5900hx 16gb 1tb Ssd Rtx 3060 Freedos 15.6" Fhd G15 G513QM-HN347</ACIKLAMA>
+    <LINK>../dizustuUrun/asus/asusrogstrixg5.php</LINK>
+    <IMGLINK>images/dizustuUrun/asus/asus2-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>D515da-br608 Amd Ryzen 3 3250u 4gb 256gb Ssd Fdos 15.6 Inc Taşınabilir Bilgisayar D515DA-BR608</ACIKLAMA>
+    <LINK>../dizustuUrun/asus/asusd515.php</LINK>
+    <IMGLINK>images/dizustuUrun/asus/asus3-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>14s-fq0034nt Amd Ryzen 5 4500u 8gb 256gb Ssd Windows 10 Home 14" Taşınabilir Bilgisayar 324L7EA</ACIKLAMA>
+    <LINK>../dizustuUrun/hp/hp14s.php</LINK>
+    <IMGLINK>images/dizustuUrun/hp/hp1-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>notebook</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>340s G7 9hr36es03 I5-1035g1 16gb 256ssd Freedos 14'' Fullhd Taşınabilir Bilgisayar T07024C</ACIKLAMA>
+    <LINK>../dizustuUrun/hp/hp340s.php</LINK>
+    <IMGLINK>images/dizustuUrun/hp/hp2-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>notebook</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>15s-fq2027nt 2n2m8ea I5-1135g7 8gb Ram 512gb Ssd 15.6 Inc Fhd 2N2M8EA</ACIKLAMA>
+    <LINK>../dizustuUrun/hp/hp15s.php</LINK>
+    <IMGLINK>images/dizustuUrun/hp/hp3-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>dizustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>GL65 Leopard 10SDR-412XTR Intel Core i7-10750H 16GB 256GB SSD GTX1660Ti 6GB 15.6" 144hz Freedos GL65 LEOPARD 10SDR-412XTR</ACIKLAMA>
+    <LINK>../dizustuUrun/msi/msigl65.php</LINK>
+    <IMGLINK>images/dizustuUrun/msi/msi1-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>Gf65 Thin 10sdr-645 Intel I7 10750h 512gb Ssd W10 Pro Gtx1660ti 15.6" Fhd Taşınabilir Bilgisayar GF65-10SDR-645</ACIKLAMA>
+    <LINK>../dizustuUrun/msi/msigf65.php</LINK>
+    <IMGLINK>images/dizustuUrun/msi/msi2-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>Gp65 Leopard 10sdk-819xtr I7-10750h 16gb Ddr4 Gtx1660tı Gddr6 6gb 512gb Ssd 15.6 Fhd 144hz Dos 10SDK-819XTR</ACIKLAMA>
+    <LINK>../dizustuUrun/msi/msigp65.php</LINK>
+    <IMGLINK>images/dizustuUrun/msi/msi3-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+
+  <!--MASAÜSTÜ BİLGİSAYAR ÜRÜNLERİ-->
+
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana A45.8130-BC00R 21.5'' Intel Core i3 16GB RAM 120GB SSD Windows 10 Pro Full HD</ACIKLAMA>
+    <LINK>../masaustuUrun/casper/caspernirvanaa45.php</LINK>
+    <IMGLINK>images/masaustuUrun/casper/casper1-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana A5h.1010-4t00t-v Intel Core I3-10100 4gb 1tb Hdd Windows 10 23,8" Fhd A5H.1010-4T00T-V</ACIKLAMA>
+    <LINK>../masaustuUrun/casper/caspernirvanaa5h.php</LINK>
+    <IMGLINK>images/masaustuUrun/casper/casper2-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Casper</BASLIK>
+    <ACIKLAMA>Nirvana A46.1005-8v00x-v Intel Core I3-1005g1 8gb 500 Nvme Ssd Freedos 21.5" Fhd A46.1005-8V00X-V</ACIKLAMA>
+    <LINK>../masaustuUrun/casper/caspernirvanaa46.php</LINK>
+    <IMGLINK>images/masaustuUrun/casper/casper3-1.jpg</IMGLINK>
+    <MARKA>casper</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>Aspire C24-1650 Intel I5-1135g7 8 Gb 256gbssd 1tbhdd Freedos 23.8 Fhd Aıo Dq.bfsem.004 DQ.BFSEM.004</ACIKLAMA>
+    <LINK>../masaustuUrun/acer/aceraspirec241650.php</LINK>
+    <IMGLINK>images/masaustuUrun/acer/acer1-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>Aspire C24-420 Amd Ryzen 3 3250u 8 Gb 256gb Ssd Freedos 23,8" Fhd Alo Dq.bfxem.001 DQ.BFXEM.001</ACIKLAMA>
+    <LINK>../masaustuUrun/acer/aceraspirec24420.php</LINK>
+    <IMGLINK>images/masaustuUrun/acer/acer2-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Acer</BASLIK>
+    <ACIKLAMA>Aspire C24-963 Intel Core I5 1035g1 8gb 256gb Sdd 23.8" Fhd Ips W10 Home Dq.berem.001 DQ.BEREM.001</ACIKLAMA>
+    <LINK>../masaustuUrun/acer/aceraspirec24963.php</LINK>
+    <IMGLINK>images/masaustuUrun/acer/acer3-1.jpg</IMGLINK>
+    <MARKA>acer</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>V222fak-ba007m03 I3-10110u 8gb 256ssd 21.5" Fullhd Freedos All In One Bilgisayar T08413C</ACIKLAMA>
+    <LINK>../masaustuUrun/asus/asusv222fak.php</LINK>
+    <IMGLINK>images/masaustuUrun/asus/asus1-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>V222ubk-ba006d I3-8130u 8gb 1tb+256ssd 2gb Mx110 21.5 Freedos ASUS V222UBK-BA006D5</ACIKLAMA>
+    <LINK>../masaustuUrun/asus/asusv222ubk.php</LINK>
+    <IMGLINK>images/masaustuUrun/asus/asus2-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Asus</BASLIK>
+    <ACIKLAMA>Gt51ca-de13t Core I7 6700k 4ghz 64gb 2tb+512 Ssd 8gb Nvıdıa Gtx1080 Wın10 GT51CA-DE13T</ACIKLAMA>
+    <LINK>../masaustuUrun/asus/asusgt51ca.php</LINK>
+    <IMGLINK>images/masaustuUrun/asus/asus3-1.jpg</IMGLINK>
+    <MARKA>asus</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>24-dp0042nt 308u9ea03 I3-10100t 16gb 256ssd 23.8" W10h Fullhd All In One T08690C</ACIKLAMA>
+    <LINK>../masaustuUrun/hp/hp24.php</LINK>
+    <IMGLINK>images/masaustuUrun/hp/hp1-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>Pro One 440 G6 Intel Core I3 10100t 4gb 256gb Ssd 23.8" Fhd Wın10 Home All In One Pc 2T7Z1ES</ACIKLAMA>
+    <LINK>../masaustuUrun/hp/hp440.php</LINK>
+    <IMGLINK>images/masaustuUrun/hp/hp2-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Hp</BASLIK>
+    <ACIKLAMA>Gaming Pavilion Tg01-2031nt 434p1ea Ryzen 5 5600g 8gb Ram 256gb Ssd 2gb Rx550 Freedos Gaming Pc 434P1EA</ACIKLAMA>
+    <LINK>../masaustuUrun/hp/hptg01.php</LINK>
+    <IMGLINK>images/masaustuUrun/hp/hp3-1.jpg</IMGLINK>
+    <MARKA>hp</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>Modern Am241p 11m-071xtr Intel Core I5 1135g7 8gb 256gb Ssd Freedos 23.8" Fhd All In One 11M-071XTR</ACIKLAMA>
+    <LINK>../masaustuUrun/msi/msiam241p.php</LINK>
+    <IMGLINK>images/masaustuUrun/msi/msi1-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>masaustu</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>MPG Trident 3 10SI-016EU Intel Core i7 10700 16GB 512GB SSD GTX1660 Super Windows 10 Home MAG INFINITE 010SI-1031EU</ACIKLAMA>
+    <LINK>../masaustuUrun/msi/msimpg.php</LINK>
+    <IMGLINK>images/masaustuUrun/msi/msi2-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+  <URUN>
+    <BASLIK>Msi</BASLIK>
+    <ACIKLAMA>Mag Infınıte 10sı-1032eu I5-10400f 8gb 1tb Hdd 256gb Ssd 6gb Gtx1660 Super Windows 10 10SI-1032EU</ACIKLAMA>
+    <LINK>../masaustuUrun/msi/msimag.php</LINK>
+    <IMGLINK>images/masaustuUrun/msi/msi3-1.jpg</IMGLINK>
+    <MARKA>msi</MARKA>
+    <AMAC>gaming</AMAC>
+  </URUN>
+</URUNLER>
