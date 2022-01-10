@@ -9,6 +9,8 @@ Bu proje ikinci projem olan electrobota genel anlamda benzerlik göstermektedir.
 Özellikler
 -----------------
 Ürünleri yorumlamak: Her ürün sayfasında bir yorum yapma özelliği bulunur. Kullanıcı yorum yazdığında yazılan yorum veritabanıda "yorum" tablosuna kaydedilir ve aynı sayfada görüntülenir.
+
+
 Kategori Filtrelemek: Kategori sayfalarında bir filtre sistemi bulunmaktadır. 
 Bu filtre sistemi javascriptle yazılmış olup kullanıcının arayüzde seçtiği seçimlere göre sayfa linkine bir parametre eklenir.
 Parametre eklendiğinde sayfa yenilenir ve parametre kontrolü yapılır. Parametreye göre ürünler filtrelenir.
